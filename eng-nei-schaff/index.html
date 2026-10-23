@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Eng Nei Schaff ASBL — Peinture &amp; Services à domicile à Bettembourg</title>
+<meta name="description" content="Eng Nei Schaff ASBL à Bettembourg : peinture intérieure et extérieure, rénovation, nettoyage, petits travaux et jardinage.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;600;700;800&family=Sora:wght@600;700;800&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--green:#14532d;--green2:#1f7a4a;--green3:#2ea86a;--slate:#1e293b;--slate2:#475569;--warm:#fffdf7;--cream:#f6f1e7;--line:#e7e2d6;--gold:#e9a319}
+html{scroll-behavior:smooth}
+body{font-family:'Manrope',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--slate);background:var(--warm);line-height:1.65}
+h1,h2,h3{font-family:'Sora','Manrope',system-ui,sans-serif}
+a{color:inherit;text-decoration:none}
+img{display:block;max-width:100%}
+.wrap{max-width:1180px;margin:0 auto;padding:0 24px}
+header{position:sticky;top:0;z-index:60;background:rgba(255,253,247,.97);border-bottom:1px solid var(--line);box-shadow:0 4px 18px rgba(30,41,59,.06)}
+.header-in{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 0}
+.logo{display:flex;align-items:center;gap:12px;font-weight:800;font-size:1.08rem;line-height:1.2;font-family:'Sora',sans-serif}
+.logo-mark{width:44px;height:44px;border-radius:12px;background:linear-gradient(135deg,var(--green2),var(--green3));display:grid;place-items:center;color:#fff;flex:0 0 auto}
+.logo small{display:block;font-family:'Manrope',sans-serif;font-weight:600;color:var(--slate2);font-size:.78rem}
+.btn{display:inline-flex;align-items:center;gap:8px;border-radius:999px;padding:13px 24px;font-weight:800;font-size:.95rem;border:2px solid transparent;transition:all .25s;white-space:nowrap}
+.btn:hover{transform:translateY(-2px)}
+.btn-primary{background:var(--green2);color:#fff;box-shadow:0 10px 22px rgba(31,122,74,.28)}
+.btn-light{background:#fff;color:var(--green)}
+.btn-outline{background:transparent;color:#fff;border-color:rgba(255,255,255,.8)}
+.btn-wa{background:#22c55e;color:#fff}
+.hero{position:relative;overflow:hidden;color:#fff;min-height:640px;display:flex;align-items:center}
+.hero-img{position:absolute;top:0;right:0;bottom:0;left:0;width:100%;height:100%;object-fit:cover;animation:kenburns 20s ease-in-out infinite alternate}
+@keyframes kenburns{from{transform:scale(1)}to{transform:scale(1.09)}}
+.hero-overlay{position:absolute;top:0;right:0;bottom:0;left:0;background:linear-gradient(90deg,rgba(10,42,24,.9) 0%,rgba(20,83,45,.72) 55%,rgba(20,83,45,.3) 100%)}
+.hero-in{position:relative;z-index:2;padding:96px 0 88px;max-width:680px}
+.badge{display:inline-block;background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.4);padding:7px 15px;border-radius:999px;font-size:.82rem;font-weight:800;letter-spacing:.05em;text-transform:uppercase;margin-bottom:20px}
+.hero h1{font-size:clamp(2.4rem,5.4vw,3.9rem);line-height:1.06;letter-spacing:-.02em;margin-bottom:18px}
+.hero p{font-size:1.2rem;color:#eaf7ef;max-width:580px;margin-bottom:30px}
+.hero-cta{display:flex;flex-wrap:wrap;gap:12px}
+.rating-strip{background:#fff;border-bottom:1px solid var(--line);box-shadow:0 6px 18px rgba(30,41,59,.05)}
+.rating-in{display:flex;flex-wrap:wrap;align-items:center;gap:12px 20px;padding:18px 0}
+.stars{color:var(--gold);font-size:1.3rem;letter-spacing:3px}
+.rating-in strong{font-size:1.12rem;font-family:'Sora',sans-serif}
+.rating-in span{color:var(--slate2);font-weight:600}
+section{padding:84px 0}
+.kicker{color:var(--green2);font-weight:800;letter-spacing:.12em;text-transform:uppercase;font-size:.8rem;margin-bottom:10px}
+.sec-head{max-width:660px;margin-bottom:42px}
+.sec-head.center{margin-left:auto;margin-right:auto;text-align:center}
+.sec-head h2{font-size:clamp(1.9rem,3.6vw,2.6rem);line-height:1.12;margin-bottom:12px}
+.sec-head p{color:var(--slate2);font-size:1.05rem}
+.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:22px}
+.card{background:#fff;border:1px solid var(--line);border-radius:20px;overflow:hidden;box-shadow:0 8px 24px rgba(30,41,59,.05);transition:transform .3s,box-shadow .3s}
+.card:hover{transform:translateY(-8px);box-shadow:0 22px 40px rgba(30,41,59,.13)}
+.card-photo{height:180px;overflow:hidden}
+.card-photo img{width:100%;height:100%;object-fit:cover;transition:transform .6s}
+.card:hover .card-photo img{transform:scale(1.07)}
+.card-body{padding:24px 24px 26px}
+.icon{width:46px;height:46px;border-radius:12px;background:#e8f5ec;color:var(--green2);display:grid;place-items:center;margin-bottom:14px}
+.card h3{font-size:1.08rem;margin-bottom:6px}
+.card p{color:var(--slate2);font-size:.95rem}
+.split{display:grid;grid-template-columns:1fr 1fr;gap:52px;align-items:center}
+.split-photo{border-radius:24px;overflow:hidden;box-shadow:0 24px 48px rgba(20,83,45,.18)}
+.split-photo img{width:100%;height:460px;object-fit:cover;transition:transform .6s}
+.split-photo:hover img{transform:scale(1.04)}
+.split-text h2{font-size:clamp(1.8rem,3.4vw,2.4rem);line-height:1.15;margin-bottom:16px}
+.split-text p{color:var(--slate2);margin-bottom:16px;font-size:1.03rem}
+.gallery{display:grid;grid-template-columns:1fr 1fr 1fr;gap:18px}
+.gal{border-radius:18px;overflow:hidden;height:250px}
+.gal img{width:100%;height:100%;object-fit:cover;transition:transform .6s}
+.gal:hover img{transform:scale(1.08)}
+.why{background:var(--cream)}
+.why-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:20px}
+.why-item{background:#fff;border:1px solid var(--line);border-radius:18px;padding:28px 24px;transition:transform .3s}
+.why-item:hover{transform:translateY(-6px)}
+.why-item h3{font-size:1.02rem;margin-bottom:8px}
+.why-item p{color:var(--slate2);font-size:.95rem}
+.info-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}
+.info-box{background:#fff;border:1px solid var(--line);border-radius:18px;padding:30px 26px;box-shadow:0 8px 20px rgba(30,41,59,.04)}
+.info-box h3{margin-bottom:10px}
+.info-box p,.info-box a{color:var(--slate2)}
+.info-box a{font-weight:800;color:var(--green2)}
+.contact{background:var(--green);color:#fff;text-align:center}
+.contact h2{font-size:clamp(1.9rem,4vw,2.6rem);margin-bottom:12px}
+.contact p{color:#d1fae5;max-width:560px;margin:0 auto 28px}
+.contact-cta{display:flex;justify-content:center;flex-wrap:wrap;gap:12px}
+footer{padding:28px 0;text-align:center;color:var(--slate2);font-size:.9rem;background:var(--warm)}
+.reveal{opacity:1;transform:none}
+html.io-enabled .reveal{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease}
+html.io-enabled .reveal.visible{opacity:1;transform:none}
+@media(max-width:860px){.grid,.why-grid,.gallery{grid-template-columns:1fr}.split,.info-grid{grid-template-columns:1fr}.hero{min-height:540px}}
+</style>
+</head>
+<body>
+<header><div class="wrap header-in">
+<a class="logo" href="#accueil"><span class="logo-mark"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 11l9-7 9 7v9a2 2 0 0 1-2 2h-4v-7H9v7H5a2 2 0 0 1-2-2z"/></svg></span><span>Eng Nei Schaff ASBL<small>Peinture &amp; services à domicile — Bettembourg</small></span></a>
+<a class="btn btn-primary" href="tel:+352546670">☎ +352 54 66 70</a>
+</div></header>
+
+<div class="hero" id="accueil">
+<img class="hero-img" src="https://images.unsplash.com/photo-1562259949-e8e7689d7828?q=80&w=1600&auto=format&fit=crop" alt="Peintre appliquant une peinture fraîche au rouleau sur un mur" loading="eager">
+<div class="hero-overlay"></div>
+<div class="wrap" style="width:100%"><div class="hero-in">
+<span class="badge">Bettembourg, Luxembourg</span>
+<h1>Peinture &amp; services à domicile, réalisés avec soin</h1>
+<p>Eng Nei Schaff ASBL vous accompagne pour vos travaux de peinture, de rénovation et d’entretien de la maison et du jardin à Bettembourg et dans les environs.</p>
+<div class="hero-cta"><a class="btn btn-light" href="tel:+352546670">Appeler le +352 54 66 70</a><a class="btn btn-outline" href="#services">Découvrir nos services</a></div>
+</div></div>
+</div>
+
+<div class="rating-strip"><div class="wrap rating-in">
+<span class="stars" aria-label="4,5 sur 5">★★★★★</span><strong>4,5/5</strong><span>Note Google — 12 avis</span><span style="margin-left:auto;font-weight:700;color:#14532d">📍 144 Z.A.E. Wolser A, L-3225 Bettembourg</span>
+</div></div>
+
+<section id="services"><div class="wrap">
+<div class="sec-head center reveal"><div class="kicker">Nos services</div><h2>Un seul interlocuteur pour toute la maison</h2><p>Un seul interlocuteur pour la peinture, la rénovation et les petits travaux du quotidien.</p></div>
+<div class="grid">
+<article class="card reveal"><div class="card-photo"><img src="https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1600&auto=format&fit=crop" alt="Peintre en train de peindre un mur intérieur en blanc" loading="lazy"></div><div class="card-body"><div class="icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 20h16M6 4h9v7H6zM15 7h3a2 2 0 0 1 2 2v2h-5"/></svg></div><h3>Peinture intérieure</h3><p>Murs, plafonds et finitions pour rafraîchir et embellir vos pièces de vie.</p></div></article>
+<article class="card reveal"><div class="card-photo"><img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1600&auto=format&fit=crop" alt="Maison moderne avec façade fraîchement rénovée" loading="lazy"></div><div class="card-body"><div class="icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 21h18M5 21V8l7-5 7 5v13M9 21v-6h6v6"/></svg></div><h3>Peinture extérieure</h3><p>Façades et surfaces extérieures : une protection durable et un rendu propre.</p></div></article>
+<article class="card reveal"><div class="card-photo"><img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?q=80&w=1600&auto=format&fit=crop" alt="Intérieur rénové lumineux avec finitions soignées" loading="lazy"></div><div class="card-body"><div class="icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 7l-8.5 8.5a2.1 2.1 0 0 0 3 3L17 10M15 4l5 5"/></svg></div><h3>Rénovation</h3><p>Remise en état et rénovation de vos espaces, de la préparation aux finitions.</p></div></article>
+<article class="card reveal"><div class="card-body"><div class="icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 3l1.8 4.6L18 9l-4.2 1.4L12 15l-1.8-4.6L6 9l4.2-1.4zM19 15l.8 2.2L22 18l-2.2.8L19 21l-.8-2.2L16 18l2.2-.8z"/></svg></div><h3>Nettoyage</h3><p>Services de nettoyage pour garder vos locaux et votre habitation impeccables.</p></div></article>
+<article class="card reveal"><div class="card-body"><div class="icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="3"/><path d="M19 12a7 7 0 0 0-.1-1.2l2-1.6-2-3.4-2.4 1a7 7 0 0 0-2-1.2L14 3h-4l-.5 2.6a7 7 0 0 0-2 1.2l-2.4-1-2 3.4 2 1.6A7 7 0 0 0 5 12c0 .4 0 .8.1 1.2l-2 1.6 2 3.4 2.4-1a7 7 0 0 0 2 1.2L10 21h4l.5-2.6a7 7 0 0 0 2-1.2l2.4 1 2-3.4-2-1.6c.1-.4.1-.8.1-1.2z"/></svg></div><h3>Petits travaux / bricolage</h3><p>Les petits travaux et réparations du quotidien, pris en charge simplement.</p></div></article>
+<article class="card reveal"><div class="card-body"><div class="icon"><svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22V10M12 10C12 6 9 3 5 3c0 4 3 7 7 7zM12 14c0-4 3-7 7-7 0 4-3 7-7 7z"/></svg></div><h3>Jardinage</h3><p>Entretien de vos espaces verts pour un extérieur net toute l’année.</p></div></article>
+</div></div></section>
+
+<section style="background:#fff;padding-top:72px;padding-bottom:72px"><div class="wrap split">
+<div class="split-text reveal"><div class="kicker">Peinture &amp; rénovation</div><h2>Des pièces transformées, un rendu propre et durable</h2><p>De la préparation des surfaces aux finitions, Eng Nei Schaff ASBL prend en charge vos travaux de peinture intérieure et extérieure ainsi que vos projets de rénovation à Bettembourg et dans les environs.</p><p>Nettoyage, petits travaux et jardinage complètent l’offre : un seul contact pour l’entretien complet de votre maison.</p><a class="btn btn-primary" href="tel:+352546670">Demander un contact</a></div>
+<div class="split-photo reveal"><img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?q=80&w=1600&auto=format&fit=crop" alt="Salon fraîchement peint aux couleurs douces et lumineuses" loading="lazy"></div>
+</div></section>
+
+<section style="padding-top:20px"><div class="wrap">
+<div class="sec-head reveal"><div class="kicker">Réalisations — inspiration</div><h2>Des intérieurs qui respirent le neuf</h2></div>
+<div class="gallery">
+<div class="gal reveal"><img src="https://images.unsplash.com/photo-1600566753086-00f18fb6b3ea?q=80&w=1600&auto=format&fit=crop" alt="Salle de bain rénovée aux finitions modernes" loading="lazy"></div>
+<div class="gal reveal"><img src="https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?q=80&w=1600&auto=format&fit=crop" alt="Séjour élégant après rénovation complète" loading="lazy"></div>
+<div class="gal reveal"><img src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?q=80&w=1600&auto=format&fit=crop" alt="Chambre lumineuse aux murs fraîchement peints" loading="lazy"></div>
+</div></div></section>
+
+<section class="why"><div class="wrap">
+<div class="sec-head reveal"><div class="kicker">Confiance locale</div><h2>Pourquoi Eng Nei Schaff ?</h2><p>Une association basée à Bettembourg, joignable facilement et active sur plusieurs métiers de la maison.</p></div>
+<div class="why-grid">
+<div class="why-item reveal"><h3>Basés à Bettembourg</h3><p>Retrouvez-nous au 144 Z.A.E. Wolser A, L-3225 Bettembourg — un ancrage local, proche de chez vous.</p></div>
+<div class="why-item reveal"><h3>Plusieurs services, un contact</h3><p>Peinture, rénovation, nettoyage, bricolage et jardinage : un seul numéro pour vos besoins à domicile.</p></div>
+<div class="why-item reveal"><h3>Avis clients vérifiés</h3><p>Notés 4,5/5 sur Google avec 12 avis — la satisfaction de nos clients guide notre travail.</p></div>
+</div></div></section>
+
+<section><div class="wrap">
+<div class="sec-head reveal"><div class="kicker">Contact</div><h2>Nous trouver &amp; nous contacter</h2></div>
+<div class="info-grid">
+<div class="info-box reveal"><h3>Adresse</h3><p>Eng Nei Schaff ASBL<br>144 Z.A.E. Wolser A<br>L-3225 Bettembourg<br>Luxembourg</p></div>
+<div class="info-box reveal"><h3>Contact direct</h3><p>Téléphone : <a href="tel:+352546670">+352 54 66 70</a><br>E-mail : <a href="mailto:info@engneischaff.lu">info@engneischaff.lu</a><br><br>Écrivez-nous ou appelez-nous pour parler de votre projet.</p></div>
+</div></div></section>
+
+<section class="contact"><div class="wrap reveal">
+<h2>Un projet de peinture ou de rénovation ?</h2><p>Contactez Eng Nei Schaff ASBL dès aujourd’hui par téléphone, e-mail ou WhatsApp.</p>
+<div class="contact-cta"><a class="btn btn-light" href="tel:+352546670">☎ Appeler</a><a class="btn btn-wa" href="https://wa.me/352546670" target="_blank" rel="noopener">WhatsApp</a><a class="btn" style="background:#fff;color:#14532d" href="mailto:info@engneischaff.lu">Écrire un e-mail</a></div>
+</div></section>
+</main>
+<footer><div class="wrap">Eng Nei Schaff ASBL — Bettembourg, Luxembourg<br>Concept de page d'accueil créé par Fastech Digital Solutions</div></footer>
+<script>
+(function(){
+  var els=document.querySelectorAll('.reveal');
+  if(!('IntersectionObserver' in window)||!els.length){return;}
+  document.documentElement.classList.add('io-enabled');
+  var io=new IntersectionObserver(function(entries){entries.forEach(function(e){if(e.isIntersecting){e.target.classList.add('visible');io.unobserve(e.target);}});},{threshold:.12});
+  els.forEach(function(el){io.observe(el);});
+  setTimeout(function(){els.forEach(function(el){el.classList.add('visible');});},1200);
+})();
+</script>
+</body>
+</html>
