@@ -18,6 +18,26 @@ This repository hosts live design concepts that we prepare for businesses before
 | [Coiffeur Salon Sara](https://agoodworker.github.io/fastech-previews/coiffeur-sara/) | Zurich, Switzerland | Homepage concept |
 | [Liicht](https://agoodworker.github.io/fastech-previews/liicht/) | Schifflange, Luxembourg | Advertising landing page |
 | [Bright Solutions](https://agoodworker.github.io/fastech-previews/bright-solutions/) | Luxembourg | Online booking page |
+| [The Artists](https://agoodworker.github.io/fastech-previews/the-artists/) | Belval, Luxembourg | Advertising landing page |
+| [By Tom](https://agoodworker.github.io/fastech-previews/by-tom/) | Lintgen, Luxembourg | Offer landing page |
+| [Wash Now Services](https://agoodworker.github.io/fastech-previews/wash-now/) | Ettelbruck, Luxembourg | Online booking page |
+| [Volki Clean GmbH](https://agoodworker.github.io/fastech-previews/volki-clean/) | Volketswil, Switzerland | Advertising landing page |
+| [IB Cleaning](https://agoodworker.github.io/fastech-previews/ib-cleaning/) | Muri, Switzerland | Online booking page |
+| [Two Man and a Truck](https://agoodworker.github.io/fastech-previews/two-man-and-a-truck/) | Zurich, Switzerland | Advertising landing page |
+| [MA Smart Global GmbH](https://agoodworker.github.io/fastech-previews/ma-smart-global/) | Zurich, Switzerland | Advertising landing page |
+| [Auspoint Medical Cosmetic Clinic](https://agoodworker.github.io/fastech-previews/auspoint-medical/) | Perth, Australia | Homepage concept |
+| [Skiin Centre](https://agoodworker.github.io/fastech-previews/skiin-centre/) | Melbourne, Australia | Homepage concept |
+| [Mint Detail](https://agoodworker.github.io/fastech-previews/mint-detail/) | Brisbane, Australia | Advertising landing page |
+| [PDD Detailing & Protection](https://agoodworker.github.io/fastech-previews/pdd-detailing/) | Brisbane, Australia | Online booking page |
+| [Protec Haus](https://agoodworker.github.io/fastech-previews/protec-haus/) | Sydney, Australia | Online booking page |
+| [Collaroy Dental](https://agoodworker.github.io/fastech-previews/collaroy-dental/) | Sydney, Australia | Online booking page |
+| [The Ruthy Clinic](https://agoodworker.github.io/fastech-previews/ruthy-clinic/) | Launceston, Australia | Online booking page |
+| [The Teeth Whitener](https://agoodworker.github.io/fastech-previews/teeth-whitener/) | Perth, Australia | Online booking page |
+| [Boutique Dental Bondi](https://agoodworker.github.io/fastech-previews/boutique-dental-bondi/) | Sydney, Australia | Advertising landing page |
+| [Brighton Skin and Laser Clinic](https://agoodworker.github.io/fastech-previews/brighton-skin-laser/) | Adelaide, Australia | Advertising landing page |
+| [Aesthetics by Maddy-Jane](https://agoodworker.github.io/fastech-previews/aesthetics-maddy-jane/) | Singleton, Australia | Online booking page |
+| [Dentistry By Design](https://agoodworker.github.io/fastech-previews/dentistry-by-design/) | Sydney, Australia | Online booking page |
+| [Smile by Design](https://agoodworker.github.io/fastech-previews/smile-by-design/) | Sydney, Australia | Online booking page |
 
 ## How a preview works
 
