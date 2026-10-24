@@ -91,3 +91,4 @@ Fastech Digital Solutions designs and builds business websites, redesigns, onlin
 ---
 
 © 2026 Fastech Digital Solutions. The previews in this repository are design concepts prepared for the businesses named above. Each concept remains the property of Fastech Digital Solutions until it is purchased.
+| Honig Beauty v3 (neu) | [honig-beauty-v3](https://agoodworker.github.io/fastech-previews/honig-beauty-v3/) | Deutsch | Native Buchung (Konzept) |
