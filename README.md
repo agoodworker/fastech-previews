@@ -6,6 +6,8 @@ This repository hosts live design concepts that we prepare for businesses before
 
 ## Current previews
 
+> Batch 3 previews (SB Detailing through Finesse Cosmetic Surgery) were rebuilt on 2026-10-24 with distinct, research-based designs — each business has its own layout identity.
+
 | Business | Location | Concept |
 | --- | --- | --- |
 | [Shiny Car](https://agoodworker.github.io/fastech-previews/shiny-car/) | Differdange, Luxembourg | Homepage concept |
@@ -70,6 +72,7 @@ This repository hosts live design concepts that we prepare for businesses before
 | [Jack's Barbershop — Editorial redesign](https://agoodworker.github.io/fastech-previews/jacks-barbershop-v2/) | Luxembourg City, Luxembourg | Editorial redesign concept |
 | [FORMEL7 — Dark cinematic redesign](https://agoodworker.github.io/fastech-previews/formel7-v2/) | Zurich, Switzerland | Dark cinematic redesign concept |
 | [Honig Beauty — Soft minimal redesign](https://agoodworker.github.io/fastech-previews/honig-beauty-v2/) | Zurich, Switzerland | Soft minimal redesign concept |
+| [Honig Beauty — Warm human redesign](https://agoodworker.github.io/fastech-previews/honig-beauty-v3/) | Zurich, Switzerland | Online booking page (redesign) |
 
 ## How a preview works
 
@@ -91,4 +94,3 @@ Fastech Digital Solutions designs and builds business websites, redesigns, onlin
 ---
 
 © 2026 Fastech Digital Solutions. The previews in this repository are design concepts prepared for the businesses named above. Each concept remains the property of Fastech Digital Solutions until it is purchased.
-| Honig Beauty v3 (neu) | [honig-beauty-v3](https://agoodworker.github.io/fastech-previews/honig-beauty-v3/) | Deutsch | Native Buchung (Konzept) |
