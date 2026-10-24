@@ -38,6 +38,35 @@ This repository hosts live design concepts that we prepare for businesses before
 | [Aesthetics by Maddy-Jane](https://agoodworker.github.io/fastech-previews/aesthetics-maddy-jane/) | Singleton, Australia | Online booking page |
 | [Dentistry By Design](https://agoodworker.github.io/fastech-previews/dentistry-by-design/) | Sydney, Australia | Online booking page |
 | [Smile by Design](https://agoodworker.github.io/fastech-previews/smile-by-design/) | Sydney, Australia | Online booking page |
+| [SB Detailing](https://agoodworker.github.io/fastech-previews/sb-detailing/) | Foetz, Luxembourg | Online booking page |
+| [Hollerich Healthcare Center](https://agoodworker.github.io/fastech-previews/hollerich-healthcare/) | Hollerich, Luxembourg | Homepage concept |
+| [Jack's Barbershop](https://agoodworker.github.io/fastech-previews/jacks-barbershop/) | Luxembourg City, Luxembourg | Online booking page |
+| [Barber Stop Zone](https://agoodworker.github.io/fastech-previews/barber-stop-zone/) | Luxembourg City, Luxembourg | Online booking page |
+| [G d'Or Beauty Studio](https://agoodworker.github.io/fastech-previews/g-dor/) | Gasperich, Luxembourg | Online booking page |
+| [Beauty K](https://agoodworker.github.io/fastech-previews/beauty-k/) | Howald, Luxembourg | Online booking page |
+| [Honig Beauty](https://agoodworker.github.io/fastech-previews/honig-beauty/) | Zurich, Switzerland | Online booking page |
+| [Skin Premium Lounge](https://agoodworker.github.io/fastech-previews/skin-premium-lounge/) | Zurich, Switzerland | Homepage concept |
+| [MELON](https://agoodworker.github.io/fastech-previews/melon-beauty/) | Thalwil, Switzerland | Online shop concept |
+| [Laser + Skin](https://agoodworker.github.io/fastech-previews/laser-and-skin/) | Dübendorf, Switzerland | Advertising landing page |
+| [Karoo PMU](https://agoodworker.github.io/fastech-previews/karoo-pmu/) | Zurich, Switzerland | Advertising landing page |
+| [For Seasons](https://agoodworker.github.io/fastech-previews/for-seasons/) | Zurich, Switzerland | Online booking page |
+| [FORMEL7](https://agoodworker.github.io/fastech-previews/formel7/) | Zurich, Switzerland | Online booking page |
+| [Schreiber Kosmetik](https://agoodworker.github.io/fastech-previews/schreiber-kosmetik/) | Zurich, Switzerland | Online booking page |
+| [Sam's Window Tinting & Detailing](https://agoodworker.github.io/fastech-previews/sams-window-tinting/) | Melbourne, Australia | Homepage concept |
+| [88 Detailing](https://agoodworker.github.io/fastech-previews/88-detailing/) | Melbourne, Australia | Online booking page |
+| [SmileOn Perth](https://agoodworker.github.io/fastech-previews/smileon-perth/) | Perth, Australia | Online booking page |
+| [Angel Aesthetics Clinic](https://agoodworker.github.io/fastech-previews/angel-aesthetics/) | Brisbane, Australia | Online booking page |
+| [eDental Perth](https://agoodworker.github.io/fastech-previews/edental-perth/) | Perth, Australia | Advertising landing page |
+| [Evolve Studio](https://agoodworker.github.io/fastech-previews/evolve-studio/) | Perth, Australia | Homepage concept |
+| [Gentle Dental Centre](https://agoodworker.github.io/fastech-previews/gentle-dental/) | Perth, Australia | Online booking page |
+| [Aria Dental](https://agoodworker.github.io/fastech-previews/aria-dental/) | Perth, Australia | Advertising landing page |
+| [Scrubs Car Detailing](https://agoodworker.github.io/fastech-previews/scrubs-detailing/) | Brisbane, Australia | Advertising landing page |
+| [Adelaide Cosmetic Dentistry](https://agoodworker.github.io/fastech-previews/adelaide-cosmetic-dentistry/) | Adelaide, Australia | Online booking page |
+| [Canopy Pilates](https://agoodworker.github.io/fastech-previews/canopy-pilates/) | Sydney, Australia | Online booking page |
+| [RAW Anthony Nader](https://agoodworker.github.io/fastech-previews/raw-anthony-nader/) | Sydney, Australia | Online booking page |
+| [Rolling Stone Landscapes](https://agoodworker.github.io/fastech-previews/rolling-stone-landscapes/) | Sydney, Australia | Consultation booking page |
+| [Sublime Car Care](https://agoodworker.github.io/fastech-previews/sublime-car-care/) | Wollongong, Australia | Advertising landing page |
+| [Finesse Cosmetic Surgery](https://agoodworker.github.io/fastech-previews/finesse-cosmetic-surgery/) | Newcastle, Australia | Online booking page |
 
 ## How a preview works
 
