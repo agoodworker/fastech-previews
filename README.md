@@ -84,7 +84,6 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 61 | [FORMEL7 — Dark cinematic redesign](https://agoodworker.github.io/fastech-previews/formel7-v2/) | Dark cinematic redesign concept |
 | 62 | [Honig Beauty — Soft minimal redesign](https://agoodworker.github.io/fastech-previews/honig-beauty-v2/) | Soft minimal redesign concept |
 | 63 | [Honig Beauty — Warm human redesign](https://agoodworker.github.io/fastech-previews/honig-beauty-v3/) | Online booking page (redesign) |
-
 | 64 | [The Tidy Troupe](https://agoodworker.github.io/fastech-previews/tidy-troupe/) | Online booking page |
 | 65 | [LuxRelo](https://agoodworker.github.io/fastech-previews/luxrelo/) | Corporate quote landing page |
 | 66 | [INTEGRA Smile](https://agoodworker.github.io/fastech-previews/integra-smile/) | Online booking page |
