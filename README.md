@@ -67,6 +67,9 @@ This repository hosts live design concepts that we prepare for businesses before
 | [Rolling Stone Landscapes](https://agoodworker.github.io/fastech-previews/rolling-stone-landscapes/) | Sydney, Australia | Consultation booking page |
 | [Sublime Car Care](https://agoodworker.github.io/fastech-previews/sublime-car-care/) | Wollongong, Australia | Advertising landing page |
 | [Finesse Cosmetic Surgery](https://agoodworker.github.io/fastech-previews/finesse-cosmetic-surgery/) | Newcastle, Australia | Online booking page |
+| [Jack's Barbershop — Editorial redesign](https://agoodworker.github.io/fastech-previews/jacks-barbershop-v2/) | Luxembourg City, Luxembourg | Editorial redesign concept |
+| [FORMEL7 — Dark cinematic redesign](https://agoodworker.github.io/fastech-previews/formel7-v2/) | Zurich, Switzerland | Dark cinematic redesign concept |
+| [Honig Beauty — Soft minimal redesign](https://agoodworker.github.io/fastech-previews/honig-beauty-v2/) | Zurich, Switzerland | Soft minimal redesign concept |
 
 ## How a preview works
 
