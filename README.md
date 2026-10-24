@@ -85,6 +85,21 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 62 | [Honig Beauty — Soft minimal redesign](https://agoodworker.github.io/fastech-previews/honig-beauty-v2/) | Soft minimal redesign concept |
 | 63 | [Honig Beauty — Warm human redesign](https://agoodworker.github.io/fastech-previews/honig-beauty-v3/) | Online booking page (redesign) |
 
+| 64 | [The Tidy Troupe](https://agoodworker.github.io/fastech-previews/tidy-troupe/) | Online booking page |
+| 65 | [LuxRelo](https://agoodworker.github.io/fastech-previews/luxrelo/) | Corporate quote landing page |
+| 66 | [INTEGRA Smile](https://agoodworker.github.io/fastech-previews/integra-smile/) | Online booking page |
+| 67 | [Fast Clean](https://agoodworker.github.io/fastech-previews/fast-clean/) | Instant-quote landing page |
+| 68 | [Lublini Beauty](https://agoodworker.github.io/fastech-previews/lublini-beauty/) | Online booking page |
+| 69 | [CP Praxis](https://agoodworker.github.io/fastech-previews/cp-praxis/) | Online booking page |
+| 70 | [alestetics](https://agoodworker.github.io/fastech-previews/alestetics/) | Skin Plan landing page |
+| 71 | [Klinik Zum Goldenen Schnitt](https://agoodworker.github.io/fastech-previews/goldenen-schnitt/) | Consultation landing page |
+| 72 | [Beauty2Go](https://agoodworker.github.io/fastech-previews/beauty2go/) | Advertising landing page |
+| 73 | [Timmy's Detailing](https://agoodworker.github.io/fastech-previews/timmys-detailing/) | Homepage + online booking |
+| 74 | [The Veneer Studio](https://agoodworker.github.io/fastech-previews/veneer-studio/) | Online booking page |
+| 75 | [Polly & Stone](https://agoodworker.github.io/fastech-previews/polly-and-stone/) | Online booking page |
+| 76 | [Lapeau Medi Spa](https://agoodworker.github.io/fastech-previews/lapeau-medi-spa/) | Online booking page |
+| 77 | [Melissa Young Beauty](https://agoodworker.github.io/fastech-previews/melissa-young-beauty/) | Online booking page |
+
 ## What we do
 
 Fastech Digital Solutions designs and builds business websites, redesigns, online booking pages, and advertising landing pages, together with SEO, care plans, custom software, and AI integrations. Our approach is simple: we show the finished concept first, so a business never has to buy a website it has not seen.
