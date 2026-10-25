@@ -98,6 +98,10 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 75 | [Polly & Stone](https://agoodworker.github.io/fastech-previews/polly-and-stone/) | Online booking page |
 | 76 | [Lapeau Medi Spa](https://agoodworker.github.io/fastech-previews/lapeau-medi-spa/) | Online booking page |
 | 77 | [Melissa Young Beauty](https://agoodworker.github.io/fastech-previews/melissa-young-beauty/) | Online booking page |
+| 78 | [Destination Beauté](https://agoodworker.github.io/fastech-previews/destination-beaute/) | Homepage + online booking |
+| 79 | [Dr George & Associés](https://agoodworker.github.io/fastech-previews/dr-george-associes/) | Whitening & veneers landing |
+| 80 | [JFG Clinic Belval](https://agoodworker.github.io/fastech-previews/jfg-clinic-belval/) | Booking page + slimming assessment landing |
+| 81 | [Adikt Beauty](https://agoodworker.github.io/fastech-previews/adikt-beauty/) | Booking page + laser landing |
 
 ## What we do
 
