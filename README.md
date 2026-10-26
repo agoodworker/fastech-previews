@@ -141,6 +141,7 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 118 | [Institut PandOrah](https://agoodworker.github.io/fastech-previews/institut-pandorah/) | Treatments + training landing |
 | 119 | [Coiffure Lémanic](https://agoodworker.github.io/fastech-previews/coiffure-lemanic/) | Men's grooming + booking page |
 | 120 | [SWISS CARWASH Le Flon](https://agoodworker.github.io/fastech-previews/swiss-carwash-flon/) | Hand wash + detailing booking page |
+| 121 | [Calculate Bottleneck](https://calculatebottleneck.com/) | Live website - bottleneck calculator |
 
 ## What we do
 
