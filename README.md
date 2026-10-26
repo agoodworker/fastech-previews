@@ -102,7 +102,6 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 79 | [Dr George & Associés](https://agoodworker.github.io/fastech-previews/dr-george-associes/) | Whitening & veneers landing |
 | 80 | [JFG Clinic Belval](https://agoodworker.github.io/fastech-previews/jfg-clinic-belval/) | Booking page + slimming assessment landing |
 | 81 | [Adikt Beauty](https://agoodworker.github.io/fastech-previews/adikt-beauty/) | Booking page + laser landing |
-
 | 82 | [The Wax Bar](https://agoodworker.github.io/fastech-previews/the-wax-bar/) | Online booking page |
 | 83 | [Dayness Institut](https://agoodworker.github.io/fastech-previews/dayness-institut/) | Baobab signature treatment landing |
 | 84 | [Beauty Source](https://agoodworker.github.io/fastech-previews/beauty-source/) | Online booking page |
