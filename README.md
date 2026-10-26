@@ -1,6 +1,6 @@
 # Fastech Previews
 
-![Live previews](https://img.shields.io/badge/Live%20previews-101-brightgreen)
+![Live previews](https://img.shields.io/badge/Live%20previews-View%20all-brightgreen)
 ![Hosting](https://img.shields.io/badge/Hosting-GitHub%20Pages-blue)
 ![By](https://img.shields.io/badge/By-Fastech%20Digital%20Solutions-0f172a)
 
