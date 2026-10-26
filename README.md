@@ -103,6 +103,27 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 80 | [JFG Clinic Belval](https://agoodworker.github.io/fastech-previews/jfg-clinic-belval/) | Booking page + slimming assessment landing |
 | 81 | [Adikt Beauty](https://agoodworker.github.io/fastech-previews/adikt-beauty/) | Booking page + laser landing |
 
+| 82 | [The Wax Bar](https://agoodworker.github.io/fastech-previews/the-wax-bar/) | Online booking page |
+| 83 | [Dayness Institut](https://agoodworker.github.io/fastech-previews/dayness-institut/) | Baobab signature treatment landing |
+| 84 | [Beauty Source](https://agoodworker.github.io/fastech-previews/beauty-source/) | Online booking page |
+| 85 | [BL Institut](https://agoodworker.github.io/fastech-previews/bl-institut/) | Online booking page |
+| 86 | [Forever Institut](https://agoodworker.github.io/fastech-previews/forever-institut/) | Laser + booking page |
+| 87 | [Whitening Artists](https://agoodworker.github.io/fastech-previews/whitening-artists/) | Whitening & Invisalign landing |
+| 88 | [Clinique Dentaire Chantepoulet](https://agoodworker.github.io/fastech-previews/chantepoulet/) | Aesthetic & anxious-patient landing |
+| 89 | [Rhône Dental Clinic](https://agoodworker.github.io/fastech-previews/rhone-dental-clinic/) | Whitening landing |
+| 90 | [Centre Dentaire Champel](https://agoodworker.github.io/fastech-previews/cdchampel/) | Smile-transformation landing |
+| 91 | [Clinique de la Croix d'Or](https://agoodworker.github.io/fastech-previews/croix-dor/) | Laser + booking page |
+| 92 | [Clinique CLEAGE](https://agoodworker.github.io/fastech-previews/cleage/) | Laser-by-zone landing |
+| 93 | [Med'Esthétique](https://agoodworker.github.io/fastech-previews/medesthetique/) | Laser packages landing |
+| 94 | [Mbeauty Traitement](https://agoodworker.github.io/fastech-previews/mbeauty-traitement/) | Cryolipolysis landing |
+| 95 | [Huna Services](https://agoodworker.github.io/fastech-previews/huna-services/) | Service landing pages |
+| 96 | [AZLuxury](https://agoodworker.github.io/fastech-previews/azluxury/) | Car-wash booking page |
+| 97 | [Berbhair](https://agoodworker.github.io/fastech-previews/berbhair/) | Unified 3-salon landing |
+| 98 | [The Barber House](https://agoodworker.github.io/fastech-previews/barber-house/) | Online booking page |
+| 99 | [Switch Air Nettoyage](https://agoodworker.github.io/fastech-previews/switch-air/) | Quote landing page |
+| 100 | [DentalGeneva](https://agoodworker.github.io/fastech-previews/dentalgeneva/) | Invisalign & All-on-4 landing |
+| 101 | [Dentiste Cornavin](https://agoodworker.github.io/fastech-previews/dentiste-cornavin/) | Veneers + booking landing |
+
 ## What we do
 
 Fastech Digital Solutions designs and builds business websites, redesigns, online booking pages, and advertising landing pages, together with SEO, care plans, custom software, and AI integrations. Our approach is simple: we show the finished concept first, so a business never has to buy a website it has not seen.
