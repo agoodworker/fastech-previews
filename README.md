@@ -128,7 +128,7 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 105 | [Peau Lys](https://agoodworker.github.io/fastech-previews/peau-lys/) | Kobido + Sculpt Lys landing |
 | 106 | [Mellow Skincare](https://agoodworker.github.io/fastech-previews/mellow-skincare/) | Personalised facials + booking page |
 | 107 | [3D Orthodontist](https://agoodworker.github.io/fastech-previews/3d-orthodontist/) | Invisalign + booking page |
-| 108 | [GRAF | SANZ MARTÍN](https://agoodworker.github.io/fastech-previews/graf-sanz-martin/) | Implantology + periodontology landing |
+| 108 | [GRAF \| SANZ MARTÍN](https://agoodworker.github.io/fastech-previews/graf-sanz-martin/) | Implantology + periodontology landing |
 | 109 | [Cabinet Dentaire d'Ouchy](https://agoodworker.github.io/fastech-previews/cabinet-dentaire-ouchy/) | Family dentistry + booking page |
 | 110 | [Maison Tóā](https://agoodworker.github.io/fastech-previews/maison-toa/) | Laser + CoolSculpting landing |
 | 111 | [Clinique Bellefontaine](https://agoodworker.github.io/fastech-previews/clinique-bellefontaine/) | CoolSculpting + injectables landing |
