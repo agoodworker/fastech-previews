@@ -122,6 +122,25 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 99 | [Dr George & Associés](https://agoodworker.github.io/fastech-previews/dr-george-associes/) | Whitening & veneers landing |
 | 100 | [JFG Clinic Belval](https://agoodworker.github.io/fastech-previews/jfg-clinic-belval/) | Booking page + slimming assessment landing |
 | 101 | [Adikt Beauty](https://agoodworker.github.io/fastech-previews/adikt-beauty/) | Booking page + laser landing |
+| 102 | [Belen Beauty](https://agoodworker.github.io/fastech-previews/belen-beauty/) | Valmont + Tesla MED landing |
+| 103 | [Ambassade Biologique Recherche Lausanne](https://agoodworker.github.io/fastech-previews/ambassade-lausanne/) | Skin Instant Lab + booking page |
+| 104 | [Allegoria](https://agoodworker.github.io/fastech-previews/allegoria/) | Prestige facial + booking page |
+| 105 | [Peau Lys](https://agoodworker.github.io/fastech-previews/peau-lys/) | Kobido + Sculpt Lys landing |
+| 106 | [Mellow Skincare](https://agoodworker.github.io/fastech-previews/mellow-skincare/) | Personalised facials + booking page |
+| 107 | [3D Orthodontist](https://agoodworker.github.io/fastech-previews/3d-orthodontist/) | Invisalign + booking page |
+| 108 | [GRAF | SANZ MARTÍN](https://agoodworker.github.io/fastech-previews/graf-sanz-martin/) | Implantology + periodontology landing |
+| 109 | [Cabinet Dentaire d'Ouchy](https://agoodworker.github.io/fastech-previews/cabinet-dentaire-ouchy/) | Family dentistry + booking page |
+| 110 | [Maison Tóā](https://agoodworker.github.io/fastech-previews/maison-toa/) | Laser + CoolSculpting landing |
+| 111 | [Clinique Bellefontaine](https://agoodworker.github.io/fastech-previews/clinique-bellefontaine/) | CoolSculpting + injectables landing |
+| 112 | [Clinique ENTOURAGE](https://agoodworker.github.io/fastech-previews/clinique-entourage/) | Laser + booking page |
+| 113 | [Clinic Lémanic](https://agoodworker.github.io/fastech-previews/clinic-lemanic/) | Laser-skin + booking page |
+| 114 | [RIVIERAClinic](https://agoodworker.github.io/fastech-previews/rivieraclinic/) | Unified laser + booking page |
+| 115 | [Maison Evenia](https://agoodworker.github.io/fastech-previews/maison-evenia/) | Laser + slimming packs landing |
+| 116 | [VD Touch Barber](https://agoodworker.github.io/fastech-previews/vd-touch-barber/) | Barber + booking page |
+| 117 | [NC Coiffeur Barbier](https://agoodworker.github.io/fastech-previews/nc-coiffeur-barbier/) | Barber + booking page |
+| 118 | [Institut PandOrah](https://agoodworker.github.io/fastech-previews/institut-pandorah/) | Treatments + training landing |
+| 119 | [Coiffure Lémanic](https://agoodworker.github.io/fastech-previews/coiffure-lemanic/) | Men's grooming + booking page |
+| 120 | [SWISS CARWASH Le Flon](https://agoodworker.github.io/fastech-previews/swiss-carwash-flon/) | Hand wash + detailing booking page |
 
 ## What we do
 
