@@ -142,6 +142,10 @@ Every preview below is a complete homepage, booking page, or landing-page concep
 | 119 | [Coiffure Lémanic](https://agoodworker.github.io/fastech-previews/coiffure-lemanic/) | Men's grooming + booking page |
 | 120 | [SWISS CARWASH Le Flon](https://agoodworker.github.io/fastech-previews/swiss-carwash-flon/) | Hand wash + detailing booking page |
 | 121 | [Calculate Bottleneck](https://calculatebottleneck.com/) | Live website - bottleneck calculator |
+| 122 | [TalpaDent](https://agoodworker.github.io/fastech-previews/talpadent/) | Dental clinic + booking page |
+| 123 | [Grain de Sable](https://agoodworker.github.io/fastech-previews/grain-de-sable/) | Beauty + slimming + booking page |
+| 124 | [VO Aesthetics](https://agoodworker.github.io/fastech-previews/vo-aesthetics/) | Laser clinic + consultation page |
+| 125 | [Five Senses Massage](https://agoodworker.github.io/fastech-previews/five-senses-massage/) | Massage studio + booking page |
 
 ## What we do
 
