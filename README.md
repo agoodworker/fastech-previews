@@ -168,3 +168,10 @@ Fastech Digital Solutions designs and builds business websites, redesigns, onlin
 ---
 
 © 2026 Fastech Digital Solutions. The previews in this repository are design concepts prepared for the businesses named above. Each concept remains the property of Fastech Digital Solutions until it is purchased. There is no open-source licence on this repository — contact us for any reuse.
+| 134 | [Shine Skin and Body](https://agoodworker.github.io/fastech-previews/shine-skin-and-body/) | Skin clinic + booking page |
+| 135 | [With U Dental](https://agoodworker.github.io/fastech-previews/with-u-dental/) | Dental implant page |
+| 136 | [Adawn Dental Studio](https://agoodworker.github.io/fastech-previews/adawn-dental-studio/) | Dental + smile makeover page |
+| 137 | [The Bearded Man](https://agoodworker.github.io/fastech-previews/bearded-man/) | Barbershop + booking page |
+| 138 | [Alpha Barbers](https://agoodworker.github.io/fastech-previews/alpha-barbers-flinders-lane/) | Barbershop + booking page |
+| 139 | [Kiora Skin Clinic & Spa](https://agoodworker.github.io/fastech-previews/kiora-hawthorn/) | Skin clinic + booking page |
+| 140 | [Renewed Confidence](https://agoodworker.github.io/fastech-previews/renewed-confidence-ogorman/) | Aesthetics clinic + booking page |
