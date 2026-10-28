@@ -190,3 +190,19 @@ Fastech Digital Solutions designs and builds business websites, redesigns, onlin
 | 153 | [Sense of Self (Surry Hills)](https://agoodworker.github.io/fastech-previews/sense-of-self/) | Wellness bathhouse + booking page |
 | 154 | [Muscle Medicine Double Bay](https://agoodworker.github.io/fastech-previews/muscle-medicine-double-bay/) | Remedial massage + booking page |
 | 155 | [Truefitt & Hill Sydney (QVB)](https://agoodworker.github.io/fastech-previews/truefitt-hill-qvb/) | Barbershop + booking page |
+| 156 | [StyleYourSmile (Zurich)](https://agoodworker.github.io/fastech-previews/styleyoursmile/) | Dental practice + booking page |
+| 157 | [House of Smiles (Zurich)](https://agoodworker.github.io/fastech-previews/house-of-smiles/) | Orthodontics + booking page |
+| 158 | [THE ERAM CLINIC (Zurich)](https://agoodworker.github.io/fastech-previews/the-eram-clinic/) | Aesthetic dentistry + booking page |
+| 159 | [Schmidhof Zahnärzte (Zurich)](https://agoodworker.github.io/fastech-previews/schmidhof-zahnaerzte/) | Dental practice + booking page |
+| 160 | [We Love Smiles (Zurich)](https://agoodworker.github.io/fastech-previews/we-love-smiles/) | Orthodontics + booking page |
+| 161 | [clinic utoquai (Zurich)](https://agoodworker.github.io/fastech-previews/clinic-utoquai/) | Aesthetic medicine + booking page |
+| 162 | [perfect esthetics (Zurich)](https://agoodworker.github.io/fastech-previews/perfect-esthetics/) | Aesthetic medicine + booking page |
+| 163 | [everskin (Zurich)](https://agoodworker.github.io/fastech-previews/everskin/) | Skin longevity + booking page |
+| 164 | [ConceptYOU Clinic (Zurich)](https://agoodworker.github.io/fastech-previews/conceptyou-clinic/) | Aesthetic medicine + booking page |
+| 165 | [FLEEK INK (Zurich)](https://agoodworker.github.io/fastech-previews/fleek-ink/) | Permanent make-up + booking page |
+| 166 | [LABO Spa by Swissline (Zurich)](https://agoodworker.github.io/fastech-previews/labo-spa/) | Day spa + booking page |
+| 167 | [Aoyama Head Spa Seefeld (Zurich)](https://agoodworker.github.io/fastech-previews/aoyama-head-spa-seefeld/) | Head spa + booking page |
+| 168 | [Georgina Georgiu Skincare Studio (Zurich)](https://agoodworker.github.io/fastech-previews/georgina-georgiu-skincare/) | Skincare studio + booking page |
+| 169 | [Hürlimannbad & Spa (Zurich)](https://agoodworker.github.io/fastech-previews/huerlimannbad-spa/) | Thermal bath + booking page |
+| 170 | [The Good Barbers Enge (Zurich)](https://agoodworker.github.io/fastech-previews/the-good-barbers-enge/) | Barbershop + booking page |
+| 171 | [MyMaid (Zurich)](https://agoodworker.github.io/fastech-previews/mymaid/) | Cleaning service + booking page |
