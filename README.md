@@ -206,3 +206,7 @@ Fastech Digital Solutions designs and builds business websites, redesigns, onlin
 | 169 | [Hürlimannbad & Spa (Zurich)](https://agoodworker.github.io/fastech-previews/huerlimannbad-spa/) | Thermal bath + booking page |
 | 170 | [The Good Barbers Enge (Zurich)](https://agoodworker.github.io/fastech-previews/the-good-barbers-enge/) | Barbershop + booking page |
 | 171 | [MyMaid (Zurich)](https://agoodworker.github.io/fastech-previews/mymaid/) | Cleaning service + booking page |
+| 172 | [Aesthetics Medical AG (Zurich)](https://agoodworker.github.io/fastech-previews/aesthetics-medical/) | Aesthetic medicine + booking page |
+| 173 | [Swisskin Clinic AG (Zurich)](https://agoodworker.github.io/fastech-previews/swisskin-clinic/) | Aesthetic medicine + booking page |
+| 174 | [Skin-Expert.ch (Zurich)](https://agoodworker.github.io/fastech-previews/skin-expert/) | Permanent make-up + skin care + booking page |
+| 175 | [Zahnärzte am Rennweg (Zurich)](https://agoodworker.github.io/fastech-previews/zahnaerzte-rennweg/) | Dental practice + booking page |
